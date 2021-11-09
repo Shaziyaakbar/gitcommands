@@ -1,0 +1,11 @@
+                                                    git commands
+git init=create new repository
+git add=add a file to staging area
+git status=current status
+git log=list the version history for the current branch
+git config=set user name and emil address
+git clone=obtain a repository from an existing url
+git branch=lists all the local repository in the current repository
+git merge=merge the specified branch history into the current history
+git push=sends the commited changes of master branch to our remote repository git remote=it is used to connect your local repository to the remote repository
+git pull=fetches and merges changes on the remote server to your working directory 
